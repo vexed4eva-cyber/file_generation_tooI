@@ -12,7 +12,7 @@ A Python GUI tool to quickly generate large text files with live progress, speed
 - Live **progress bar**, **speed (MB/s)**, and **ETA**  
 - **Stop** button halts generation and automatically deletes partial files  
 - Threaded operation — GUI stays responsive  
-
+- Works on Win/Mac/Linux
 ---
 
 ## Requirements
