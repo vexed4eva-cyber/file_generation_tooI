@@ -13,6 +13,7 @@ A Python GUI tool to quickly generate large text files with live progress, speed
 - **Stop** button halts generation and automatically deletes partial files  
 - Threaded operation — GUI stays responsive  
 - Works on Win/Mac/Linux
+- Works in headless environments/alpine linux 
 ---
 
 ## Requirements
